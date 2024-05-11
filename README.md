@@ -1,1 +1,1 @@
-Nesse projeto, fui capaz de compreender um pouco mais sobre machine learning e os conceitos básicos de visão computacional.
+Este código é um exemplo de aplicação de detecção de gestos usando a biblioteca OpenCV em Python. Ele utiliza a câmera do computador para capturar frames de vídeo em tempo real, detecta a região de interesse (ROI) que contém a mão do usuário, segmenta a pele na ROI, encontra os contornos da mão, calcula sua área e identifica os gestos com base na quantidade de dedos levantados.
